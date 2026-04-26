@@ -1,8 +1,10 @@
-# skill-architect
+# Skill Architect
+
+Prompt 与 Agent 架构审查官 / Prompt & Agent Architecture Review
 
 中文 | [English](#english)
 
-`skill-architect` 是一个用于审查 skill、agent、prompt system 和工程结构的 Codex Skill。它不是简单总结器，而是偏“架构评审”：先读全材料，再梳理结构、追踪执行流程、识别隐式依赖、评估风险，并给出可落地的重构建议。
+`Skill Architect` 是一个用于审查 skill、agent、prompt system 和工程结构的 Codex Skill。它不是简单总结器，而是你的“Prompt 与 Agent 架构审查官”：先读全材料，再梳理结构、追踪执行流程、识别隐式依赖、评估风险，并给出可落地的重构建议。
 
 ## 适合什么场景
 
@@ -50,7 +52,7 @@
 
 ## English
 
-`skill-architect` is a Codex Skill for reviewing the architecture of skills, agents, prompt systems, and engineering structures. It is not a simple summarizer. It behaves more like an architecture reviewer: it reads the relevant materials first, maps the structure, traces execution flow, identifies implicit dependencies, evaluates risks, and proposes grounded refactoring suggestions.
+`Skill Architect` is a Codex Skill for reviewing the architecture of skills, agents, prompt systems, and engineering structures. It is not a simple summarizer. Think of it as a prompt and agent architecture reviewer: it reads the relevant materials first, maps the structure, traces execution flow, identifies implicit dependencies, evaluates risks, and proposes grounded refactoring suggestions.
 
 ## When To Use It
 
